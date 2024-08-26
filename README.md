@@ -84,6 +84,13 @@
   Your browser does not support the video tag.
 </video>
 
+**__Test pruebas unitarias y de integración__**
+
+<video width="320" height="240" controls>
+  <source src="BancoEntityFramework/ImagenesReadme/Arquitectura.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 **__Diagrama de la tablas: Clientes, Cuenta, Movimientos con su respectivas claves primarias __**
 
 
