@@ -49,25 +49,29 @@
 
 **__API CLIENTES Y CUENTAS__**
 
-[![Ver Video de API Clientes y Cuentas](BancoEntityFramework/ImagenesReadme/iconoplay.png)](https://youtu.be/MOiRIVDozss)
+**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+
+[![Ver Video de API Clientes y Cuentas](https://img.youtube.com/vi/MOiRIVDozss/hqdefault.jpg)](https://youtu.be/MOiRIVDozss)
 
 **__API REPORTES__**
 
-[![Ver Video de API Reportes](BancoEntityFramework/ImagenesReadme/iconoplay.png)](https://youtu.be/CLsFmRsrl7Y)
+**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+[![Ver Video de API Reportes](https://img.youtube.com/vi/CLsFmRsrl7Y/hqdefault.jpg)](https://youtu.be/CLsFmRsrl7Y)
 
 **__API MOVIMIENTOS__**
 
-[![Ver Video de API Movimientos](BancoEntityFramework/ImagenesReadme/iconoplay.png)](https://www.youtube.com/watch?v=JmILw-snLkk)
+**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+[![Ver Video de API Movimientos](https://img.youtube.com/vi/JmILw-snLkk/hqdefault.jpg)](https://www.youtube.com/watch?v=JmILw-snLkk)
 
 **__Docker__**
 
-[![Ver Video de Docker](BancoEntityFramework/ImagenesReadme/iconoplay.png)](https://youtu.be/oCNy0s-U60k)
+**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+[![Ver Video de Docker](https://img.youtube.com/vi/oCNy0s-U60k/hqdefault.jpg)](https://youtu.be/oCNy0s-U60k)
 
 **__Arquitectura de Software, patrones de diseño y documentación__**
 
-[![Ver Video de Arquitectura de Software, patrones de diseño y documentación](BancoEntityFramework/ImagenesReadme/iconoplay.png)](https://youtu.be/3QxWasLidf4)
-
-
+**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+[![Ver Video de Arquitectura de Software, patrones de diseño y documentación](https://img.youtube.com/vi/3QxWasLidf4/hqdefault.jpg)](https://youtu.be/3QxWasLidf4)
 
 **__TEST UNITARIOS Y DE INTEGRACION__**
 <img src="BancoEntityFramework/ImagenesReadme/Test_.png" alt=""/>
