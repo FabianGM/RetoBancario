@@ -1,11 +1,147 @@
 {
 	"info": {
-		"_postman_id": "d0cd04bd-90e1-4fb2-8a7d-e1097a671643",
-		"name": "AppBancoEntidadFinanciera",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "16889890"
+		"_postman_id": "ff482e8d-266a-407c-90d5-4e54d3d28441",
+		"name": "GarridoFabianBancoPichincha",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
+		{
+			"name": "Cuentas",
+			"item": [
+				{
+					"name": "Consultar Cuentas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoCuentas",
+								"Cuentas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Consultar Cuentas Específicas",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/1",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoCuentas",
+								"Cuentas",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Agregar Nueva Cuenta",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\":2,\r\n    \"NumeroCuenta\":\"225487\",\r\n\t\"TipoCuenta\":\"Corriente\",\r\n\t\"SaldoInicial\":2000.00,\r\n\t\"Estado\":1,\r\n    \"Cliente\":\"Marianela Montalvo\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Nuevas/Cuentas",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoCuentas",
+								"Cuentas",
+								"Nuevas",
+								"Cuentas"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Actualizar Cuenta",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"ClienteId\":1007,\r\n    \"NumeroCuenta\":\"1234567890\",\r\n\t\"TipoCuenta\":\"Corriente\",\r\n\t\"SaldoInicial\":2001.00,\r\n\t\"Estado\":1,\r\n    \"Cliente\":\"Marianela Montalvo\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Editar/Cuentas/1011",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoCuentas",
+								"Cuentas",
+								"Editar",
+								"Cuentas",
+								"1011"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Eliminar Cuenta",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Eliminar/Cuentas/2",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoCuentas",
+								"Cuentas",
+								"Eliminar",
+								"Cuentas",
+								"2"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
 		{
 			"name": "Clientes",
 			"item": [
@@ -143,166 +279,8 @@
 			]
 		},
 		{
-			"name": "Cuentas",
-			"item": [
-				{
-					"name": "Consultar Cuentas",
-					"request": {
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoCuentas",
-								"Cuentas"
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "Consultar Cuentas Específicas",
-					"request": {
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/1",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoCuentas",
-								"Cuentas",
-								"1"
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "Agregar Nueva Cuenta",
-					"request": {
-						"method": "POST",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"ClienteId\":2,\r\n    \"NumeroCuenta\":\"225487\",\r\n\t\"TipoCuenta\":\"Corriente\",\r\n\t\"SaldoInicial\":2000.00,\r\n\t\"Estado\":1,\r\n    \"Cliente\":\"Marianela Montalvo\"\r\n}",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": {
-							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Nuevas/Cuentas",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoCuentas",
-								"Cuentas",
-								"Nuevas",
-								"Cuentas"
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "Actualizar Cuenta",
-					"request": {
-						"method": "PUT",
-						"header": [],
-						"body": {
-							"mode": "raw",
-							"raw": "{\r\n    \"ClienteId\":2,\r\n    \"NumeroCuenta\":\"225487\",\r\n\t\"TipoCuenta\":\"Corriente\",\r\n\t\"SaldoInicial\":2001.00,\r\n\t\"Estado\":1,\r\n    \"Cliente\":\"Marianela Montalvo\"\r\n}",
-							"options": {
-								"raw": {
-									"language": "json"
-								}
-							}
-						},
-						"url": {
-							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Editar/Cuentas/1",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoCuentas",
-								"Cuentas",
-								"Editar",
-								"Cuentas",
-								"1"
-							]
-						}
-					},
-					"response": []
-				},
-				{
-					"name": "Eliminar Cliente",
-					"request": {
-						"method": "DELETE",
-						"header": [],
-						"url": {
-							"raw": "https://localhost:5001/api/BancoCuentas/Cuentas/Eliminar/Cuentas/2",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoCuentas",
-								"Cuentas",
-								"Eliminar",
-								"Cuentas",
-								"2"
-							]
-						}
-					},
-					"response": []
-				}
-			]
-		},
-		{
 			"name": "Movimientos",
 			"item": [
-				{
-					"name": "Consultar Movimientos",
-					"request": {
-						"method": "GET",
-						"header": [],
-						"url": {
-							"raw": "https://localhost:5001/api/BancoMovimientos/Movimientos",
-							"protocol": "https",
-							"host": [
-								"localhost"
-							],
-							"port": "5001",
-							"path": [
-								"api",
-								"BancoMovimientos",
-								"Movimientos"
-							]
-						}
-					},
-					"response": []
-				},
 				{
 					"name": "Consultar Movimiento Específico",
 					"protocolProfileBehavior": {
@@ -343,7 +321,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "https://localhost:5001/api/BancoMovimientos/MovimientosFechas/12-06-2022/Clientes/Jose Lema",
+							"raw": "https://localhost:5001/api/BancoMovimientos/MovimientosFechas/26-08-2024/Clientes/Marianela Montalvo",
 							"protocol": "https",
 							"host": [
 								"localhost"
@@ -353,9 +331,9 @@
 								"api",
 								"BancoMovimientos",
 								"MovimientosFechas",
-								"12-06-2022",
+								"26-08-2024",
 								"Clientes",
-								"Jose Lema"
+								"Marianela Montalvo"
 							]
 						}
 					},
@@ -390,7 +368,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"CuentaId\": 1,\r\n    \"NumeroCuenta\": \"7478758\",\r\n    \"Tipo\": \"Ahorro \",\r\n    \"SaldoInicial\": 2000.00,\r\n    \"Estado\": 1,\r\n    \"Movimiento\": -575\r\n}",
+							"raw": "{\r\n    \"CuentaId\": 1011,\r\n    \"NumeroCuenta\": \"1234567890\",\r\n    \"Tipo\": \"Corriente\",\r\n    \"SaldoInicial\": 2000.00,\r\n    \"Estado\": 1,\r\n    \"Movimiento\": -100\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -416,13 +394,13 @@
 					"response": []
 				},
 				{
-					"name": "Realizar Movimientos",
+					"name": "Actualizar Cuenta y Movimientos",
 					"request": {
 						"method": "PUT",
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"CuentaId\": 1,\r\n    \"NumeroCuenta\": \"478758\",\r\n    \"Tipo\": \"Ahorro \",\r\n    \"SaldoInicial\": 2000.00,\r\n    \"Estado\": 1,\r\n    \"Movimiento\": -575\r\n}",
+							"raw": "{\r\n    \"CuentaId\": 1011,\r\n    \"NumeroCuenta\": \"1234567890\",\r\n    \"Tipo\": \"Corriente\",\r\n    \"SaldoInicial\": 2000.00,\r\n    \"Estado\": 1,\r\n    \"Movimiento\": -100\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -430,7 +408,7 @@
 							}
 						},
 						"url": {
-							"raw": "https://localhost:5001/api/BancoMovimientos/Movimientos/Editar/Movimientos/7",
+							"raw": "https://localhost:5001/api/BancoMovimientos/Movimientos/Editar/Movimientos/1014",
 							"protocol": "https",
 							"host": [
 								"localhost"
@@ -442,14 +420,14 @@
 								"Movimientos",
 								"Editar",
 								"Movimientos",
-								"7"
+								"1014"
 							]
 						}
 					},
 					"response": []
 				},
 				{
-					"name": "Eliminar Cliente",
+					"name": "Eliminar Movimiento",
 					"request": {
 						"method": "DELETE",
 						"header": [],
@@ -467,6 +445,42 @@
 								"Eliminar",
 								"Movimientos",
 								"4"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Reporte",
+			"item": [
+				{
+					"name": "Generar Reporte de Estado de Cuenta",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://localhost:5001/api/BancoReportes/Reportes?fecha=2024-01-01_2024-12-31&cliente=1",
+							"protocol": "https",
+							"host": [
+								"localhost"
+							],
+							"port": "5001",
+							"path": [
+								"api",
+								"BancoReportes",
+								"Reportes"
+							],
+							"query": [
+								{
+									"key": "fecha",
+									"value": "2024-01-01_2024-12-31"
+								},
+								{
+									"key": "cliente",
+									"value": "1"
+								}
 							]
 						}
 					},
