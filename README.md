@@ -41,7 +41,6 @@
 
 **SE REALIZO TODOS LOS ITEMS F1, F2, F3, F4, F5, F6, F7 PARA APLICAR AL PUESTO DE SENIOR**
 <img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/indicacionesGenerales.png" alt=""/>
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/info.png" alt=""/>
 
 
 
@@ -51,26 +50,48 @@
 
 **__API CLIENTES Y CUENTAS__**
 
-[![Ver Video de API Clientes y Cuentas](https://img.youtube.com/vi/MOiRIVDozss/maxresdefault.jpg)](https://youtu.be/MOiRIVDozss)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **__API MOVIMIENTOS__**
 
-[![Ver Video de API Movimientos](https://img.youtube.com/vi/JmILw-snLkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=JmILw-snLkk)
-
+<video width="320" height="240" controls>
+  <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Movimientos.mp4" type="video/mp4">
+</video>
 
 **__API REPORTES__**
 
-[![Ver Video de API Reportes](https://img.youtube.com/vi/CLsFmRsrl7Y/maxresdefault.jpg)](https://youtu.be/CLsFmRsrl7Y)
-
+<video width="320" height="240" controls>
+  <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Reportes.mp4" type="video/mp4">
+</video>
 
 **__Docker__**
 
-[![Ver Video de Docker](https://img.youtube.com/vi/oCNy0s-U60k/maxresdefault.jpg)](https://youtu.be/oCNy0s-U60k)
+<video width="320" height="240" controls>
+  <source src="BancoEntityFramework/ImagenesReadme/Docker.mp4" type="video/mp4">
+</video>
 
 
 **__Arquitectura de Software, patrones de diseño y documentación__**
 
-[![Ver Video de Arquitectura de Software, patrones de diseño y documentación](https://img.youtube.com/vi/3QxWasLidf4/maxresdefault.jpg)](https://youtu.be/3QxWasLidf4)
+<video width="320" height="240" controls>
+  <source src="BancoEntityFramework/ImagenesReadme/Arquitectura.mp4" type="video/mp4">
+</video>
 
 **__Test pruebas unitarias y de integración__**
 
