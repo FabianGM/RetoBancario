@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cUsNdelMZYK8HqwWr3gxNgz7yEPewMZ/XQbJGdvLNVOv9WwR4v59C+VrN7bnx91gpC6AvVKjsA0ZttpPno+mgA==",
+  "dgSpecHash": "7LXHzMKH8b4bHl+HtwkBVEjfOya7l5DUD9uJqm2lLamOBxCPbAaa0tfRcwkFAXkz+XDXEnwDV7AX6hKCzoK1gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ChurosFabian\\Documents\\ProyectosC#\\GarridoFabianPruebaBancoPichincha\\BancoCodigo.Tests\\BancoCodigo.Tests.csproj",
+  "projectFilePath": "C:\\Users\\ChurosFabian\\Documents\\ProyectosC#\\GarridoFabianPruebaBancoPichincha\\RetoBancario\\BancoCodigo.Tests\\BancoCodigo.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ChurosFabian\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\ChurosFabian\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",

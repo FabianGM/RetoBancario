@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aSRirXq+wUaN/5mXTENVmwFg+wTG/URm9JnJFCJOSz5ugU22tOpP1P39J2ckmxFfsvlk2mE/6xFWu4qnDMye7Q==",
+  "dgSpecHash": "yoVJ/69HOlz5aqWnF8YY3t0oE0O8xQRrWYAkkhdYKQOprkY/kmNgn29I7eX2RRJ9pcj/PUHnoIQ8wyJB3QZp3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ChurosFabian\\Documents\\ProyectosC#\\GarridoFabianPruebaBancoPichincha\\BancoEntityFramework\\BancoCodigo.csproj",
+  "projectFilePath": "C:\\Users\\ChurosFabian\\Documents\\ProyectosC#\\GarridoFabianPruebaBancoPichincha\\RetoBancario\\BancoEntityFramework\\BancoCodigo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ChurosFabian\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",
     "C:\\Users\\ChurosFabian\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
