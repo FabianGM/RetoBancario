@@ -1,146 +1,100 @@
+# Reto Bancario por el Ingeniero en Ciencias de la Computación Fabián Garrido
 
 **SE DEBE DAR CLIC Y ESCOGER: EJECUTAR CON BancoCodigo**
 
-
 **TENER DESHABILITADO LOS SSL EN POSTMAN**
 
-
-**__SSL__**
+## SSL
 <img src="BancoEntityFramework/ImagenesReadme/SSL.png" alt=""/>
 
+# Tiempo utilizado en el desarrollo: 18 horas
 
-# Reto Bancario por el Ingeniero en Ciencias de la Computación Fabián Garrido
+## Tecnologías Utilizadas 
 
-# Tiempo utilizado en el desarrollo 18 horas
-
-## Técnologias Utilizadas 
-
-- Arquitectura MVC API RESTful  o también llamado en BackEnd MRC
-  
+- Arquitectura MVC API RESTful o también llamado en BackEnd MRC
 - Patrón de Diseño: Inyección de Dependencias
-
 - Visual Studio 2019
-  
 - .NET CORE 5.0
-  
 - POSTMAN 9.21.2
-
 - SQL Server 2019
 
+## Pruebas de Funcionamiento con Requerimientos
 
-## Pruebas de Funcionamiento con requerimientos
-
-
-**__Información Indicaciones Generales__**
-
+### Información Indicaciones Generales
 
 <img src="BancoEntityFramework/ImagenesReadme/infoIndicaciones.png" alt=""/>
 
+### Indicaciones Generales
 
-**__Indicaciones Generales__**
+**SE REALIZÓ TODOS LOS ITEMS F1, F2, F3, F4, F5, F6, F7 PARA APLICAR AL PUESTO DE SENIOR**
 
-**SE REALIZO TODOS LOS ITEMS F1, F2, F3, F4, F5, F6, F7 PARA APLICAR AL PUESTO DE SENIOR**
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/indicacionesGenerales.png" alt=""/>
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/info.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/indicacionesGenerales.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/info.png" alt=""/>
 
-## Verbos: Get, Post, Put, delete 
+## Verbos: Get, Post, Put, Delete
 
 ## VIDEOS QUE DEMUESTRAN FUNCIONALIDAD
 
-**__API CLIENTES Y CUENTAS__**
+### API CLIENTES Y CUENTAS
 
-**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+**DAR CLIC EN LA IMAGEN PARA QUE LES DIRIJA AL VIDEO**
 
 [![Ver Video de API Clientes y Cuentas](https://img.youtube.com/vi/MOiRIVDozss/hqdefault.jpg)](https://youtu.be/MOiRIVDozss)
 
-**__API REPORTES__**
+### API REPORTES
 
-**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+**DAR CLIC EN LA IMAGEN PARA QUE LES DIRIJA AL VIDEO**
+
 [![Ver Video de API Reportes](https://img.youtube.com/vi/CLsFmRsrl7Y/hqdefault.jpg)](https://youtu.be/CLsFmRsrl7Y)
 
-**__API MOVIMIENTOS__**
+### API MOVIMIENTOS
 
-**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+**DAR CLIC EN LA IMAGEN PARA QUE LES DIRIJA AL VIDEO**
+
 [![Ver Video de API Movimientos](https://img.youtube.com/vi/JmILw-snLkk/hqdefault.jpg)](https://www.youtube.com/watch?v=JmILw-snLkk)
 
-**__Docker__**
+### Docker
 
-**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+**DAR CLIC EN LA IMAGEN PARA QUE LES DIRIJA AL VIDEO**
+
 [![Ver Video de Docker](https://img.youtube.com/vi/oCNy0s-U60k/hqdefault.jpg)](https://youtu.be/oCNy0s-U60k)
 
-**__Arquitectura de Software, patrones de diseño y documentación__**
+### Arquitectura de Software, patrones de diseño y documentación
 
-**DAR CLIK EN LA IMAGEN PARA QUE LES DIRIGA AL VIDEO**
+**DAR CLIC EN LA IMAGEN PARA QUE LES DIRIJA AL VIDEO**
+
 [![Ver Video de Arquitectura de Software, patrones de diseño y documentación](https://img.youtube.com/vi/3QxWasLidf4/hqdefault.jpg)](https://youtu.be/3QxWasLidf4)
 
-**__TEST UNITARIOS Y DE INTEGRACION__**
+### TEST UNITARIOS Y DE INTEGRACIÓN
+
 <img src="BancoEntityFramework/ImagenesReadme/Test_.png" alt=""/>
 
-**__Diagrama de la tablas: Clientes, Cuenta, Movimientos con su respectivas claves primarias __**
-
-
+### Diagrama de las Tablas: Clientes, Cuenta, Movimientos con sus respectivas claves primarias
 
 <img src="BancoEntityFramework/ImagenesReadme/diagram.png" alt=""/>
 
-
-
 <img src="BancoEntityFramework/ImagenesReadme/base.png" alt=""/>
 
-
-
-**__Funcionalidades__**
-
-
+### Funcionalidades
 
 <img src="BancoEntityFramework/ImagenesReadme/funcionalidades.png" alt=""/>
 
-
-
-
-**__Pruebas de la funcionalides__**
-
-
-
-
+### Pruebas de la Funcionalidad
 
 <img src="BancoEntityFramework/ImagenesReadme/postmanUno.png" alt=""/>
 
-
-
-
 <img src="BancoEntityFramework/ImagenesReadme/postmanDos.png" alt=""/>
 
-
-
-
-**__Búsqueda por Nombre y fecha__**
-
-
+### Búsqueda por Nombre y Fecha
 
 <img src="BancoEntityFramework/ImagenesReadme/busquedaPorFechayNombre.png" alt=""/>
 
-
-
-**__Actualización de Saldo__**
-
-
+### Actualización de Saldo
 
 <img src="BancoEntityFramework/ImagenesReadme/actualizarSaldo.png" alt=""/>
 
-
-
-
-**__Validaciones__**
-
-
+### Validaciones
 
 <img src="BancoEntityFramework/ImagenesReadme/validacionesUno.png" alt=""/>
 
-
-
-
 <img src="BancoEntityFramework/ImagenesReadme/validacionesDos.png" alt=""/>
-
-
-
-
