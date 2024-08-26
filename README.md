@@ -53,7 +53,7 @@
 
 
 
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/diagram.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/diagram.png" alt=""/>
 
 
 
