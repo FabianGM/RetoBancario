@@ -34,7 +34,7 @@
 **__Información Indicaciones Generales__**
 
 
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/infoIndicaciones.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/infoIndicaciones.png" alt=""/>
 
 
 **__Indicaciones Generales__**
@@ -52,28 +52,24 @@
 
 <video width="320" height="240" controls>
   <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Clientes_y_Cuentas.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 **__API MOVIMIENTOS__**
 
 <video width="320" height="240" controls>
   <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Movimientos.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 **__API REPORTES__**
 
 <video width="320" height="240" controls>
   <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Reportes.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 **__Docker__**
 
 <video width="320" height="240" controls>
   <source src="BancoEntityFramework/ImagenesReadme/Docker.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
@@ -81,7 +77,6 @@
 
 <video width="320" height="240" controls>
   <source src="BancoEntityFramework/ImagenesReadme/Arquitectura.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 **__Test pruebas unitarias y de integración__**
@@ -90,6 +85,9 @@
   <source src="BancoEntityFramework/ImagenesReadme/Arquitectura.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+**__TEST UNITARIOS Y DE INTEGRACION__**
+<img src="BancoEntityFramework/ImagenesReadme/Test_.png" alt=""/>
 
 **__Diagrama de la tablas: Clientes, Cuenta, Movimientos con su respectivas claves primarias __**
 
@@ -101,8 +99,7 @@
 
 <img src="BancoEntityFramework/ImagenesReadme/base.png" alt=""/>
 
-**__TEST UNITARIOS Y DE INTEGRACION__**
-<img src="BancoEntityFramework/ImagenesReadme/Test.png" alt=""/>
+
 
 **__Funcionalidades__**
 
