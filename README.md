@@ -94,6 +94,8 @@
 
 <img src="BancoEntityFramework/ImagenesReadme/base.png" alt=""/>
 
+**__TEST UNITARIOS Y DE INTEGRACION__**
+<img src="BancoEntityFramework/ImagenesReadme/Test.png" alt=""/>
 
 **__Funcionalidades__**
 
