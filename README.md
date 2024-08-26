@@ -50,9 +50,23 @@
 
 **__API CLIENTES Y CUENTAS__**
 
-<video width="320" height="240" controls>
-  <source src="BancoEntityFramework/ImagenesReadme/Endpoint_Clientes_y_Cuentas.mp4" type="video/mp4">
-</video>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **__API MOVIMIENTOS__**
 
