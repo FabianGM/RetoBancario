@@ -50,22 +50,27 @@
 **__API CLIENTES Y CUENTAS__**
 
 [![Ver Video de API Clientes y Cuentas](https://img.youtube.com/vi/MOiRIVDozss/maxresdefault.jpg)](https://youtu.be/MOiRIVDozss)
+![Play Button](https://i.imgur.com/4cduhzR.png)
 
 **__API REPORTES__**
 
 [![Ver Video de API Reportes](https://img.youtube.com/vi/CLsFmRsrl7Y/maxresdefault.jpg)](https://youtu.be/CLsFmRsrl7Y)
+![Play Button](https://i.imgur.com/4cduhzR.png)
 
 **__API MOVIMIENTOS__**
 
 [![Ver Video de API Movimientos](https://img.youtube.com/vi/JmILw-snLkk/maxresdefault.jpg)](https://www.youtube.com/watch?v=JmILw-snLkk)
+![Play Button](https://i.imgur.com/4cduhzR.png)
 
 **__Docker__**
 
 [![Ver Video de Docker](https://img.youtube.com/vi/oCNy0s-U60k/maxresdefault.jpg)](https://youtu.be/oCNy0s-U60k)
+![Play Button](https://i.imgur.com/4cduhzR.png)
 
 **__Arquitectura de Software, patrones de diseño y documentación__**
 
 [![Ver Video de Arquitectura de Software, patrones de diseño y documentación](https://img.youtube.com/vi/3QxWasLidf4/maxresdefault.jpg)](https://youtu.be/3QxWasLidf4)
+![Play Button](https://i.imgur.com/4cduhzR.png)
 
 
 
