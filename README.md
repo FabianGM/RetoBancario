@@ -6,7 +6,7 @@
 
 
 **__SSL__**
-<img src="BancoEntityFramework/ImagenesReadme/SSL.png" alt=""/>
+<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/SSL.png" alt=""/>
 
 
 
@@ -35,13 +35,13 @@
 **__Información Indicaciones Generales__**
 
 
-<img src="/ImagenesReadme/infoIndicaciones.png" alt=""/>
+<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/infoIndicaciones.png" alt=""/>
 
 
 **__Indicaciones Generales__**
 
 
-<img src="/ImagenesReadme/indicacionesGenerales.png" alt=""/>
+<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/indicacionesGenerales.png" alt=""/>
 
 
 
@@ -53,18 +53,18 @@
 
 
 
-<img src="/ImagenesReadme/diagram.png" alt=""/>
+<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/diagram.png" alt=""/>
 
 
 
-<img src="/ImagenesReadme/base.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/base.png" alt=""/>
 
 
 **__Funcionalidades__**
 
 
 
-<img src="/ImagenesReadme/funcionalidades.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/funcionalidades.png" alt=""/>
 
 
 
@@ -75,12 +75,12 @@
 
 
 
-<img src="/ImagenesReadme/postmanUno.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/postmanUno.png" alt=""/>
 
 
 
 
-<img src="/ImagenesReadme/postmanDos.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/postmanDos.png" alt=""/>
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<img src="/ImagenesReadme/busquedaPorFechayNombre.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/busquedaPorFechayNombre.png" alt=""/>
 
 
 
@@ -97,7 +97,7 @@
 
 
 
-<img src="/ImagenesReadme/actualizarSaldo.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/actualizarSaldo.png" alt=""/>
 
 
 
@@ -106,12 +106,12 @@
 
 
 
-<img src="/ImagenesReadme/validacionesUno.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/validacionesUno.png" alt=""/>
 
 
 
 
-<img src="/ImagenesReadme/validacionesDos.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/validacionesDos.png" alt=""/>
 
 
 **__Entregables__**
@@ -119,7 +119,7 @@
 
 
 
-<img src="/ImagenesReadme/entregables.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/entregables.png" alt=""/>
 
 
 
@@ -129,12 +129,12 @@
 
 
 
-<img src="/ImagenesReadme/dockerUno.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/dockerUno.png" alt=""/>
 
 
 
 
-<img src="/ImagenesReadme/dockerDos.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/dockerDos.png" alt=""/>
 
 
 
