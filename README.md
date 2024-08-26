@@ -68,6 +68,7 @@
 [![Ver Video de Arquitectura de Software, patrones de diseño y documentación](https://img.youtube.com/vi/3QxWasLidf4/maxresdefault.jpg)](https://youtu.be/3QxWasLidf4)
 
 
+
 **__TEST UNITARIOS Y DE INTEGRACION__**
 <img src="BancoEntityFramework/ImagenesReadme/Test_.png" alt=""/>
 
