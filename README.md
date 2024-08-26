@@ -6,7 +6,7 @@
 
 
 **__SSL__**
-<img src="BancoEntityFrameworkBancoEntityFramework/ImagenesReadme/SSL.png" alt=""/>
+<img src="BancoEntityFramework/ImagenesReadme/SSL.png" alt=""/>
 
 
 
